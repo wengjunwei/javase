@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="" />
+    <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw/_tt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw/_17TT.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +24,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="mavenHome" value="D:\java\intelliJ_IDEA\soft\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1lfcwowOn6tr6YBlYty5JdrB5BL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +47,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -147,12 +157,24 @@
       <option name="presentableId" value="Default" />
       <updated>1607991829061</updated>
       <workItem from="1607991831053" duration="27152000" />
-      <workItem from="1608080597116" duration="7464000" />
+      <workItem from="1608080597116" duration="8172000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1608129426360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608129426360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1608008765668">
@@ -163,26 +185,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608081615418" />
-    <state x="537" y="172" key="FileChooserDialogImpl" timestamp="1608128589865">
+    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1608129423783">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="537" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608128589865" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1608123384842">
+    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1608129423783" />
+    <state x="537" y="172" key="FileChooserDialogImpl" timestamp="1608129292553">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1608123384842">
+    <state x="537" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608129292553" />
+    <state x="638" y="315" key="Github.ShareDialog" timestamp="1608129518565">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1608123384842">
+    <state x="638" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1608129518565" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1608129735668">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1608123384842">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1608129735668">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1608129735668">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1608129735668">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608046356661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
