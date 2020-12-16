@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lfcwowOn6tr6YBlYty5JdrB5BL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaSenior\src\main\java\com\wjw" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._16ThreadPool">
+    <configuration name="_12ThreadExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw._12ThreadExercise" />
+      <module name="JavaSenior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_13ThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw._13ThreadCommunication" />
+      <module name="JavaSenior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_14Consumer_producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw._14Consumer_producer" />
+      <module name="JavaSenior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_15Callable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw._15Callable" />
+      <module name="JavaSenior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_16ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw._16ThreadPool" />
+      <module name="JavaSenior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._16ThreadPool" />
+        <item itemvalue="Application._15Callable" />
+        <item itemvalue="Application._14Consumer_producer" />
+        <item itemvalue="Application._13ThreadCommunication" />
+        <item itemvalue="Application._12ThreadExercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="" />
+      <created>1607991829061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607991829061</updated>
+      <workItem from="1607991831053" duration="27152000" />
+      <workItem from="1608080597116" duration="7464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1608008765668">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608008765668" />
+    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1608081615418">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608081615418" />
+    <state x="537" y="172" key="FileChooserDialogImpl" timestamp="1608128589865">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="537" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608128589865" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1608123384842">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1608123384842">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1608123384842">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1608123384842">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608123384842" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608046356661">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608046356661" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1608046356661">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608046356661" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1608046356661">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608046356661" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1608046356661">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608046356661" />
+    <state x="364" y="54" key="SettingsEditor" timestamp="1608129168627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="364" y="54" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608129168627" />
+    <state x="490" y="159" width="561" height="524" key="StructurePopup" timestamp="1608122907605">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="159" width="561" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1608122907605" />
+    <state x="178" y="78" key="new project wizard" timestamp="1607997705827">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="78" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1607997705827" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1608122949887">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608122949887" />
+  </component>
+</project>
