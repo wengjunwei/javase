@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw/_tt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw/_17TT.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/beauty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw/_01InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw/_02TCPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw/_03TCPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw/_04TCPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw/_05UDPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw/_06URLTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSenior/src/main/java/com/wjw/bb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSenior/target/classes/com/wjw/TT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSenior/target/classes/com/wjw/_tt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaNetwork/src/main/java/com/wjw" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
@@ -55,96 +65,115 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork" />
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src\main\java\com\wjw" />
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src\main\resources\static" />
       <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaSenior\src\main\java\com\wjw" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._16ThreadPool">
-    <configuration name="_12ThreadExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw._12ThreadExercise" />
-      <module name="JavaSenior" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_13ThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw._13ThreadCommunication" />
-      <module name="JavaSenior" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_14Consumer_producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw._14Consumer_producer" />
-      <module name="JavaSenior" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_15Callable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw._15Callable" />
-      <module name="JavaSenior" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_16ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw._16ThreadPool" />
-      <module name="JavaSenior" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit._05UDPTest.sender">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02TCPTest.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNetwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw._02TCPTest" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03TCPTest.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNetwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw._03TCPTest" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03TCPTest.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNetwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw._03TCPTest" />
+      <option name="METHOD_NAME" value="server" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05UDPTest.reserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNetwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw._05UDPTest" />
+      <option name="METHOD_NAME" value="reserver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05UDPTest.sender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNetwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw._05UDPTest" />
+      <option name="METHOD_NAME" value="sender" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._16ThreadPool" />
-        <item itemvalue="Application._15Callable" />
-        <item itemvalue="Application._14Consumer_producer" />
-        <item itemvalue="Application._13ThreadCommunication" />
-        <item itemvalue="Application._12ThreadExercise" />
+        <item itemvalue="JUnit._05UDPTest.sender" />
+        <item itemvalue="JUnit._05UDPTest.reserver" />
+        <item itemvalue="JUnit._03TCPTest.client" />
+        <item itemvalue="JUnit._03TCPTest.server" />
+        <item itemvalue="JUnit._02TCPTest.client" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +186,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607991829061</updated>
       <workItem from="1607991831053" duration="27152000" />
-      <workItem from="1608080597116" duration="8172000" />
+      <workItem from="1608080597116" duration="9049000" />
+      <workItem from="1608185543691" duration="8896000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608129426360</created>
@@ -166,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608129426360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1608129887019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608129887019</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1608129953547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608129953547</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,42 +221,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1608008765668">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1608217726612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608008765668" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608217726612" />
     <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1608081615418">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608081615418" />
-    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1608129423783">
+    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1608129951937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1608129423783" />
+    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1608129951937" />
     <state x="537" y="172" key="FileChooserDialogImpl" timestamp="1608129292553">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="537" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608129292553" />
-    <state x="638" y="315" key="Github.ShareDialog" timestamp="1608129518565">
+    <state x="638" y="315" key="Github.ShareDialog" timestamp="1608129908349">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="638" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1608129518565" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1608129735668">
+    <state x="638" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1608129908349" />
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom" timestamp="1608220737264">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1608129735668">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1608134678185" />
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608220737264" />
+    <state width="1493" height="244" key="GridCell.Tab.0.center" timestamp="1608220737264">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1608129735668">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
+    <state width="1493" height="244" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608220737264" />
+    <state width="1493" height="244" key="GridCell.Tab.0.left" timestamp="1608220737264">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1608129735668">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1608134678183" />
+    <state width="1493" height="244" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608220737264" />
+    <state width="1493" height="244" key="GridCell.Tab.0.right" timestamp="1608220737264">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608129735668" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
+    <state width="1493" height="244" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608220737264" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608046356661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -229,6 +277,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608046356661" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1608196792388">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1608196792388" />
     <state x="364" y="54" key="SettingsEditor" timestamp="1608129168627">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -237,13 +289,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="561" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1608122907605" />
-    <state x="178" y="78" key="new project wizard" timestamp="1607997705827">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1608129977637">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="178" y="78" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1607997705827" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1608122949887">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608129977637" />
+    <state x="178" y="78" key="new project wizard" timestamp="1608185590498">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608122949887" />
+    <state x="178" y="78" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608185590497" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1608196731101">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608196731101" />
   </component>
 </project>
