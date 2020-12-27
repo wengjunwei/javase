@@ -11,6 +11,8 @@
     <modules>
         <module>JavaSenior</module>
         <module>JavaNetwork</module>
+        <module>JavaReflection</module>
+        <module>JavaAnnotation</module>
     </modules>
 
 

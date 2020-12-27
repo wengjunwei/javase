@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaSenior" />
+        <module name="JavaReflection" />
         <module name="JavaNetwork" />
+        <module name="JavaAnnotation" />
+        <module name="JavaSenior" />
       </profile>
     </annotationProcessing>
   </component>
