@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaAnnotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAnnotation/src/main/java/com/wjw/AnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java/NewInstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java1/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java1/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java1/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/OtherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/ReflectionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,66 +69,77 @@
       <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NewInstanceTest.Test2">
-    <configuration name="ClassLoaderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReflectionTest.test4">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtherTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaReflection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjw.java.*" />
+          <option name="PATTERN" value="com.wjw.java2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java.ClassLoaderTest" />
+      <option name="PACKAGE_NAME" value="com.wjw.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.OtherTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaReflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassLoaderTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReflectionTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaReflection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjw.java.*" />
+          <option name="PATTERN" value="com.wjw.java2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java.ClassLoaderTest" />
+      <option name="PACKAGE_NAME" value="com.wjw.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaReflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wjw.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
       <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewInstanceTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java.NewInstanceTest" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewInstanceTest.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java.NewInstanceTest" />
-      <option name="METHOD_NAME" value="Test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,12 +149,12 @@
       <module name="JavaReflection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjw.java.*" />
+          <option name="PATTERN" value="com.wjw.java2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java.ReflectionTest" />
+      <option name="PACKAGE_NAME" value="com.wjw.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
       <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -162,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NewInstanceTest.Test2" />
-        <item itemvalue="JUnit.NewInstanceTest.Test1" />
-        <item itemvalue="JUnit.ClassLoaderTest.test3" />
-        <item itemvalue="JUnit.ClassLoaderTest.test1" />
         <item itemvalue="JUnit.ReflectionTest.test4" />
+        <item itemvalue="JUnit.ReflectionTest.test3" />
+        <item itemvalue="JUnit.ReflectionTest.test2" />
+        <item itemvalue="JUnit.ReflectionTest.test1" />
+        <item itemvalue="JUnit.OtherTest.test7" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +183,7 @@
       <workItem from="1608080597116" duration="9049000" />
       <workItem from="1608185543691" duration="9834000" />
       <workItem from="1608963654977" duration="12783000" />
+      <workItem from="1609032998167" duration="4660000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608129426360</created>
@@ -235,26 +237,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="638" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1608129908349" />
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1608987228363">
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom" timestamp="1609037667125">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1608134678185" />
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608987228363" />
-    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1608987228363">
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
+    <state width="1493" height="303" key="GridCell.Tab.0.center" timestamp="1609037667125">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
-    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608987228363" />
-    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1608987228363">
+    <state width="1493" height="303" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
+    <state width="1493" height="303" key="GridCell.Tab.0.left" timestamp="1609037667125">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1608134678183" />
-    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608987228363" />
-    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1608987228363">
+    <state width="1493" height="303" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
+    <state width="1493" height="303" key="GridCell.Tab.0.right" timestamp="1609037667125">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
-    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608987228363" />
+    <state width="1493" height="303" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608046356661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
