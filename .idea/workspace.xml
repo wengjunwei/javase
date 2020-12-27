@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/FieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/OtherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java2/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/LambdaExpressDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/SaleTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,33 @@
       <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReflectionTest.test4">
+  <component name="RunManager" selected="Application.LambdaExpressDemo">
+    <configuration name="LambdaExpressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.LambdaExpressDemo" />
+      <module name="javaJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.SaleTicket" />
+      <module name="javaJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -77,38 +106,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OtherTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.OtherTest" />
-      <option name="METHOD_NAME" value="test7" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExpressDemo" />
+        <item itemvalue="Application.SaleTicket" />
         <item itemvalue="JUnit.ReflectionTest.test4" />
         <item itemvalue="JUnit.ReflectionTest.test3" />
         <item itemvalue="JUnit.ReflectionTest.test2" />
-        <item itemvalue="JUnit.ReflectionTest.test1" />
-        <item itemvalue="JUnit.OtherTest.test7" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +181,8 @@
       <workItem from="1608185543691" duration="9834000" />
       <workItem from="1608963654977" duration="12783000" />
       <workItem from="1609032998167" duration="4660000" />
+      <workItem from="1609037680297" duration="49000" />
+      <workItem from="1609084194981" duration="6263000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608129426360</created>
@@ -221,10 +220,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608989370255" />
-    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1608992403252">
+    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1609089227255">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608992403252" />
+    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1609089227255" />
     <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1608129951937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -237,26 +236,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="638" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1608129908349" />
-    <state width="1493" height="303" key="GridCell.Tab.0.bottom" timestamp="1609037667125">
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1609089466809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1608134678185" />
-    <state width="1493" height="303" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
-    <state width="1493" height="303" key="GridCell.Tab.0.center" timestamp="1609037667125">
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
+    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1609089466809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
-    <state width="1493" height="303" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
-    <state width="1493" height="303" key="GridCell.Tab.0.left" timestamp="1609037667125">
+    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
+    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1609089466809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1608134678183" />
-    <state width="1493" height="303" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
-    <state width="1493" height="303" key="GridCell.Tab.0.right" timestamp="1609037667125">
+    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
+    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1609089466809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
-    <state width="1493" height="303" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609037667125" />
+    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608046356661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -289,10 +288,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608129977637" />
-    <state x="356" y="102" width="1180" height="650" key="new project wizard" timestamp="1608988692522">
+    <state x="356" y="102" width="1180" height="650" key="new project wizard" timestamp="1609090106569">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="356" y="102" width="1180" height="650" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608988692522" />
+    <state x="356" y="102" width="1180" height="650" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1609090106569" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1608992289504">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

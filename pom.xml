@@ -13,6 +13,8 @@
         <module>JavaNetwork</module>
         <module>JavaReflection</module>
         <module>JavaAnnotation</module>
+        <module>javaJUC</module>
+        <module>Javaday01-10</module>
     </modules>
 
 
