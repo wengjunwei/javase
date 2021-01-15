@@ -10,6 +10,7 @@ import org.junit.Test;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.Comparator;
 import java.util.Properties;
 
 /**
@@ -59,7 +60,6 @@ public class ClassLoaderTest {
         String password = properties.getProperty("password");
         System.out.println("user = " + user);
         System.out.println("password = " + password);
-
 
 
     }

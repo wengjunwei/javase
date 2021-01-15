@@ -15,7 +15,15 @@
         <module>JavaAnnotation</module>
         <module>javaJUC</module>
         <module>Javaday01-10</module>
+        <module>JavaJVM</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+        </dependency>
+    </dependencies>
 
 </project>

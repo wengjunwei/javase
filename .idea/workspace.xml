@@ -1,16 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e174f5a3-a317-4a3e-86a5-19e22f1148b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Javaday01-10/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaJUC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/LambdaExpressDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/SaleTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/com/wjw/JMMTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/com/wjw/JVMNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/com/wjw/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/com/wjw/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/com/wjw/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/com/wjw/TestTransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaJVM/src/main/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day01/BinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer1/TriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer1/TriAngleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer2/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer2/BoyGirlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer2/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer3/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer4/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer4/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer4/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/exer4/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java/ValueTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java1/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java1/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java1/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java1/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java2/PackageImportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java2/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day10/java2/java3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day11/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day11/EclipseKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day11/ExtendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day11/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer/Kids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer/KidsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer/ManKind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer1/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer2/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer2/CheckAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/exer2/CheckAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java/DebugTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java/DebugTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java1/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java2/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java3/InstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java3/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java3/SubOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java3/SuperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java4/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java4/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java4/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java4/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12/java5/InterviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/AriExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/AriTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/BitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/CompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/LogicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/ReviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/SanYuanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day3/SetValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/ForTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/IfExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/IfExer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/IfTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/SwitchCaseExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/SwitchCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/SwitchCaseTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day4/SwitchCaseTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/BreakContinueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/ForForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/ForWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/NineNineTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/PrimeNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/PrimeNumberTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/PrimeNumberTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/ReviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day5/WhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day6/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day6/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day6/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day6/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day6/exper/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day6/exper/ArrayDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/ArrayExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/BubbleSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/exer/ArrayExer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/exer/ArrayExer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/exer/ArrayExer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day7/exer/YangHuiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/Exer3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/OOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/StudentTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/exer/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day8/exer/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/exer/OverloadExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/exer1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/exer1/PassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java/ArrayUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java/InstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java1/ArrayPrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java1/MethodArgsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java1/OverLoadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java1/ValueTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java1/ValueTransferTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java1/ValueTransferTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day9/java2/RecursionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/BlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/CompletableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/ForkJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/Lock_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/MyThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/NotSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/NotifyWaitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/TestTransferValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/ThreadOrderAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaJUC/src/main/java/com/wjw/juc/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java/ClassLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReflection/target/classes/com/wjw/java/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaReflection/target/classes/com/wjw/java/ClassLoaderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJUC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaJUC/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +183,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -52,29 +206,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaReflection/src/main/java/com/wjw/java1" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javaday01-10/src/main/java/com/wjw/day12" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaReflection\src\main\java\com\wjw\java1" />
-      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaReflection\src\main\java\com\wjw" />
-      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaReflection\src" />
-      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaReflection\src\main\resources" />
-      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src\main\java\com\wjw" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork" />
       <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\JavaNetwork\src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wjw.day6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\Javaday01-10\src\main\java\com\wjw\day12" />
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\Javaday01-10\src\main\java\com\wjw" />
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\Javaday01-10\src\main\java\com\wjw\day10\java2" />
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\Javaday01-10\src\main\java\com\wjw\day10" />
+      <recent name="D:\java\intelliJ_IDEA\workspace\workspace-maven\JavaBasics\Javaday01-10\src\main\java\com\wjw\day9" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExpressDemo">
-    <configuration name="LambdaExpressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.LambdaExpressDemo" />
+  <component name="RunManager" selected="Application.CompletableFutureDemo">
+    <configuration name="CompletableFutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.CompletableFutureDemo" />
       <module name="javaJUC" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.SaleTicket" />
+    <configuration name="ForkJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.ForkJoinDemo" />
       <module name="javaJUC" />
       <extension name="coverage">
         <pattern>
@@ -99,72 +258,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.MyThreadPoolDemo" />
+      <module name="javaJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.StreamDemo" />
+      <module name="javaJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjw.juc.TestTransferValue" />
+      <module name="javaJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjw.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaReflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjw.java2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wjw.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.wjw.java2.ReflectionTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaExpressDemo" />
-        <item itemvalue="Application.SaleTicket" />
-        <item itemvalue="JUnit.ReflectionTest.test4" />
-        <item itemvalue="JUnit.ReflectionTest.test3" />
-        <item itemvalue="JUnit.ReflectionTest.test2" />
+        <item itemvalue="Application.CompletableFutureDemo" />
+        <item itemvalue="Application.ForkJoinDemo" />
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.MyThreadPoolDemo" />
+        <item itemvalue="Application.TestTransferValue" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +334,22 @@
       <workItem from="1608963654977" duration="12783000" />
       <workItem from="1609032998167" duration="4660000" />
       <workItem from="1609037680297" duration="49000" />
-      <workItem from="1609084194981" duration="6263000" />
+      <workItem from="1609084194981" duration="6627000" />
+      <workItem from="1609119149373" duration="3124000" />
+      <workItem from="1609124125421" duration="738000" />
+      <workItem from="1609124900821" duration="5161000" />
+      <workItem from="1609149253082" duration="2776000" />
+      <workItem from="1609224908874" duration="12472000" />
+      <workItem from="1609252932351" duration="7519000" />
+      <workItem from="1609291848371" duration="4166000" />
+      <workItem from="1609374428703" duration="659000" />
+      <workItem from="1609467985481" duration="9364000" />
+      <workItem from="1609557148428" duration="1598000" />
+      <workItem from="1609633390636" duration="19211000" />
+      <workItem from="1609711944681" duration="7758000" />
+      <workItem from="1610499857055" duration="1285000" />
+      <workItem from="1610532107949" duration="10571000" />
+      <workItem from="1610582985771" duration="17092000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1608129426360</created>
@@ -216,14 +383,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1608989370255">
+    <state x="395" y="95" key="#Inspections" timestamp="1609665664626">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1608989370255" />
-    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1609089227255">
+    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1609665664626" />
+    <state x="502" y="240" key="#Notifications" timestamp="1610529008286">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1609089227255" />
+    <state x="502" y="240" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1610529008286" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1609123750999">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1609123750999" />
+    <state x="399" y="155" key="#com.intellij.ide.util.ExportDialog" timestamp="1609266069021">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="399" y="155" key="#com.intellij.ide.util.ExportDialog/0.0.1536.834@0.0.1536.834" timestamp="1609266069021" />
+    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1610685577397">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="689" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1610685577397" />
+    <state x="544" y="284" width="501" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609234018729">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="544" y="284" width="501" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1609234018729" />
     <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1608129951937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -236,26 +419,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="638" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1608129908349" />
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1609089466809">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1610685931420">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1608134678185" />
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
-    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1609089466809">
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1609508182837" />
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1610685931420" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1610685931420">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
-    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
-    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1609089466809">
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1609508182836" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1610685931420" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1610685931420">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1608134678183" />
-    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
-    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1609089466809">
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1609508182836" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1610685931420" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1610685931420">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1608134678184" />
-    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609089466809" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1609508182836" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1610685931420" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608046356661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -276,25 +459,49 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1608196792388" />
-    <state x="364" y="54" key="SettingsEditor" timestamp="1608984499398">
+    <state x="228" y="36" key="SettingsEditor" timestamp="1610672915938">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="364" y="54" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608984499398" />
-    <state x="490" y="159" width="561" height="524" key="StructurePopup" timestamp="1608122907605">
+    <state x="228" y="36" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1610672915938" />
+    <state x="490" y="159" width="561" height="524" key="StructurePopup" timestamp="1609128768838">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="490" y="159" width="561" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1608122907605" />
+    <state x="490" y="159" width="561" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1609128768838" />
+    <state x="642" y="305" key="VCS.ChangelistChooser" timestamp="1610538498613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="642" y="305" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1610538498613" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1608129977637">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1608129977637" />
-    <state x="356" y="102" width="1180" height="650" key="new project wizard" timestamp="1609090106569">
+    <state x="573" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609225808722">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="356" y="102" width="1180" height="650" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1609090106569" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1608992289504">
+    <state x="573" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1609225808722" />
+    <state x="729" y="140" key="extract.method.dialog" timestamp="1610672774777">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608992289504" />
+    <state x="729" y="140" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1610672774777" />
+    <state x="467" y="120" width="602" height="594" key="find.popup" timestamp="1609477326136">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="467" y="120" width="602" height="594" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1609477326136" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1609476929718">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1536.834@0.0.1536.834" timestamp="1609476929718" />
+    <state x="107" y="90" width="1180" height="650" key="new project wizard" timestamp="1609761109517">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="107" y="90" width="1180" height="650" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1609761109517" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1610685482144">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1610685482144" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1609260697488">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1609260697488" />
   </component>
 </project>

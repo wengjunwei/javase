@@ -9,9 +9,10 @@
         <module name="JavaReflection" />
         <module name="javaJUC" />
         <module name="Javaday01-10" />
+        <module name="JavaJVM" />
+        <module name="JavaSenior" />
         <module name="JavaNetwork" />
         <module name="JavaAnnotation" />
-        <module name="JavaSenior" />
       </profile>
     </annotationProcessing>
   </component>
